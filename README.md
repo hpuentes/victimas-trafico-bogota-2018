@@ -45,15 +45,15 @@ T3. Buscar por tipo de victima como es la distribución por edad de la cantidad 
 * Position on common scale: Fragmentos de barra (Tipo de accidente en un rango de edad) con tamaño por tipo de incidente.
 * Tilt: Barras verticales para cada rango de edad indicando cantidad de incidentes.
 ## Distribución por rango de edad y causa de incidente de las victimas en accidentes de tránsito en la ciudad de Bogotá durante el año 2018.
-### Selección de la gravedad del accidente para actualizar la gráfica.
+* Selección de la gravedad del accidente para actualizar la gráfica.
 ![Gravedad](https://github.com/hpuentes/victimas-trafico-bogota-2018/blob/master/gravedad.png)
-### Visualización de la distribución de los accidentes por rangos de edad de víctimas con valoración médica.
+* Visualización de la distribución de los accidentes por rangos de edad de víctimas con valoración médica.
 ![Valorados](https://github.com/hpuentes/victimas-trafico-bogota-2018/blob/master/valorada.png)
-### Visualización de la distribución de los accidentes por rangos de edad de víctimas con hospitalización.
+* Visualización de la distribución de los accidentes por rangos de edad de víctimas con hospitalización.
 ![Hospitalizados](https://github.com/hpuentes/victimas-trafico-bogota-2018/blob/master/hospitalizada.png)
-### Visualización de la distribución de los accidentes por rangos de edad de víctimas fallecidas.
+* Visualización de la distribución de los accidentes por rangos de edad de víctimas fallecidas.
 ![Muertos](https://github.com/hpuentes/victimas-trafico-bogota-2018/blob/master/muerta.png)
-### Cambio de modo en la visualización para pasar de Stack Bar a Bar Chart para cada rango de edad.
+* Cambio de modo en la visualización para pasar de Stack Bar a Bar Chart para cada rango de edad.
 ![Modo](https://github.com/hpuentes/victimas-trafico-bogota-2018/blob/master/modo.png)
 ![Agrupado](https://github.com/hpuentes/victimas-trafico-bogota-2018/blob/master/grouped.png)
 
