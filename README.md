@@ -46,6 +46,7 @@ T3. Buscar por tipo de victima como es la distribución por edad de la cantidad 
 * Tilt: Barras verticales para cada rango de edad indicando cantidad de incidentes.
 ## Distribución por rango de edad y causa de incidente de las victimas en accidentes de tránsito en la ciudad de Bogotá durante el año 2018.
 
+![Gravedad](https://github.com/hpuentes/victimas-trafico-bogota-2018/blob/master/gravedad.png)
 ![Valorados](https://github.com/hpuentes/victimas-trafico-bogota-2018/blob/master/valorada.png)
 ![Hospitalizados](https://github.com/hpuentes/victimas-trafico-bogota-2018/blob/master/hospitalizada.png)
 ![Muertos](https://github.com/hpuentes/victimas-trafico-bogota-2018/blob/master/muerta.png)
