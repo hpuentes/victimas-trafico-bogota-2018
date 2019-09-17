@@ -50,6 +50,7 @@ T3. Buscar por tipo de victima como es la distribución por edad de la cantidad 
 ![Valorados](https://github.com/hpuentes/victimas-trafico-bogota-2018/blob/master/valorada.png)
 ![Hospitalizados](https://github.com/hpuentes/victimas-trafico-bogota-2018/blob/master/hospitalizada.png)
 ![Muertos](https://github.com/hpuentes/victimas-trafico-bogota-2018/blob/master/muerta.png)
+![Modo](https://github.com/hpuentes/victimas-trafico-bogota-2018/blob/master/modo.png)
 ![Agrupado](https://github.com/hpuentes/victimas-trafico-bogota-2018/blob/master/grouped.png)
 
 ## Conclusiones
