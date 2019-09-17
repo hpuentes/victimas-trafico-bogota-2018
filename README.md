@@ -53,7 +53,7 @@ T3. Buscar por tipo de victima como es la distribución por edad de la cantidad 
 ![Hospitalizados](https://github.com/hpuentes/victimas-trafico-bogota-2018/blob/master/hospitalizada.png)
 * Visualización de la distribución de los accidentes por rangos de edad de víctimas fallecidas.
 ![Muertos](https://github.com/hpuentes/victimas-trafico-bogota-2018/blob/master/muerta.png)
-* Cambio de modo en la visualización para pasar de Stack Bar a Bar Chart para cada rango de edad.
+* Cambio de modo en la visualización para pasar de Stack Bar a Bar Chart para cada rango de edad, con el objeto de lograr encontrar las diferencias en la cantidad entre las diferentes causas de accidentes.
 ![Modo](https://github.com/hpuentes/victimas-trafico-bogota-2018/blob/master/modo.png)
 ![Agrupado](https://github.com/hpuentes/victimas-trafico-bogota-2018/blob/master/grouped.png)
 
