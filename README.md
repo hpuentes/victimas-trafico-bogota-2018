@@ -46,6 +46,8 @@ T3. Buscar por tipo de victima como es la distribución por edad de la cantidad 
 * Tilt: Barras verticales para cada rango de edad indicando cantidad de incidentes.
 ## Distribución por rango de edad y causa de incidente de las victimas en accidentes de tránsito en la ciudad de Bogotá durante el año 2018.
 
+![Valorados](https://github.com/hpuentes/victimas-trafico-bogota-2018/blob/master/valorada.png)
+
 ## Conclusiones
 Los accidentes de tráfico en la ciudad de Bogotá durante el año 2018 generaron una gran cantidad de victimas de diferente gravedad, siendo los adultos mayores los que aportan la mayor cantidad de victimas fatales (Mayores de 61 años), sin embargo al analizar la distribución para victimas hospitalizadas y las victimas con valoración médica, se logra identificar que los jovenes entre los 16 y 23 años son los que en la mayoría de los casos resultan heridos en este tipo de incidentes.
 Ahora para el caso específico de las victimas que requirieron valoración médica, la distribución esta encabezada por los jovenes entre los 16 y 23 años, seguido muy de cerca por los de 24-30 años y los de 31-40 años. Los jovenes entre 16 y 23 años son personas en edad de recibir su primera licencia de conducción y además se encuentran cursando estudios secundarios y universitarios. Para el caso de victimas hospitalizadas tambien esta encabezado por el grupo de jovenes entre los 16 y 24 años, seguido por los de 31-40 años. En conclusión los adultos mayores (Mayores de 60 años) aportan la mayor cantidad de victimas fatales, pero los jovenes entre los 16 y 23 años son los que aportan la mayor cantidad de victimas hospitalizadas y valoradas medicamente. 
