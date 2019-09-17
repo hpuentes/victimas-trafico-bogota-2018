@@ -27,7 +27,7 @@ T2. Comparar la cantidad de victimas por tipo de accidente en un rango de edad.<
 T3. Buscar por tipo de victima como es la distribución por edad de la cantidad y tipos de accidentes.</br>(Lookup)-(Distribution)
 ## WHAT?
 ### Attributes: 
-* Rango edad: Ordered, Ordinal.
+* Rango edad: Categorical.
 * Choque: Quantitative, Sequential.
 * Atropello: Quantitative, Sequential.
 * Caida de ocupante: Quantitative, Sequential.
