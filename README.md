@@ -71,3 +71,4 @@ Los niños entre 0 y 15 años en general resultan involucrados como victimas en 
 * Despliegue en el sitio observablehq.
 ## Autor
 Hermes Puentes Navarro https://www.linkedin.com/in/hermes-puentes-navarro-1898b2b3/
+Combining code from John Guerra https://bl.ocks.org/john-guerra/95c69d114b7d59f934c282fc643d2234 and Brooke M. Fujita https://github.com/buruzaemon/d3_stacked_to_grouped .
